@@ -1,2 +1,2 @@
 # 6-lowdb
-export lỗi nhiều quá.
+xuất từ glitch lỗi nhiều quá chán.
